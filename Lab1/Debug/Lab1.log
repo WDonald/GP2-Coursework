@@ -1,0 +1,13 @@
+﻿  Transform.cpp
+f:\uni backup\programming2\programming 2 courcework\lab1\transform.cpp(28): warning C4305: '-=': truncation from 'double' to 'float'
+f:\uni backup\programming2\programming 2 courcework\lab1\transform.cpp(39): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  Shader.cpp
+f:\uni backup\programming2\programming 2 courcework\lab1\shader.cpp(12): warning C4129: 's': unrecognized character escape sequence
+  Mesh.cpp
+  MainGame.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Lab1.vcxproj -> F:\uni backup\Programming2\Programming 2 courcework\Debug\Lab1.exe
